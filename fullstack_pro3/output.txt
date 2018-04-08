@@ -1,0 +1,15 @@
+vagrant@vagrant:/vagrant/newsdata$ python databaselog.py
+                HERE IS THE LOG
+THE OUTPUT FOR THE FIRST QUERY THE MOST POPULAR THREE ARTICLES OF ALL TIME->
+        Candidate is jerk, alleges rival-->338647
+        Bears love berries, alleges bear-->253801
+        Bad things gone, say good people-->170098
+THE OUTPUT FOR THE SECOND QUERY THE MOST POPULAR ARTICLE AUTHORS OF ALL TIME ->
+        Ursula La Multa-->507594
+        Rudolf von Treppenwitz-->423457
+        Anonymous Contributor-->170098
+        Markoff Chaney-->84557
+THE OUTPUT FOR THE THIRD QUERY WHICH DAYS DID MORE THAN 1% OF REQUESTS LEAD TO ERRORS ->
+        2016-07-17:2
+
+	
